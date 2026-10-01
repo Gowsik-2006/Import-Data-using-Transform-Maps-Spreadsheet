@@ -316,7 +316,7 @@ ServiceNow_Project/
 
 ### Team ID
 
-`6ab7f27c8c7c66e7067292d1`
+`SWTID-2026-2971`
 
 ## 📋 Project Outcome
 
@@ -344,11 +344,6 @@ Dashboard
 
 It demonstrates how spreadsheet data can be staged, transformed, validated, and presented through ServiceNow reports and dashboards.
 
-## 📝 Notes
-
-This README is based on the supplied ServiceNow project guide and screenshot evidence.
-
-The project documentation does not specify formal deployment dates, external APIs, custom application code, separate external databases, or formal performance benchmarks. Such information has therefore not been added to this README.
 
 ## 📄 License
 
